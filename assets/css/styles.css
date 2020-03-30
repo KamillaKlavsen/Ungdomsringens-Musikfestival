@@ -555,6 +555,10 @@ a:hover p{
     color: black;
 }
 
+.tilmeld {
+   box-shadow: 10px 10px 20px black;
+}
+
 #footer-info {
     margin-top: 430px;
 }
