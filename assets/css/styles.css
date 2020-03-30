@@ -530,7 +530,8 @@ a:hover p{
     'priser forplejning'
     'ungeindslag vagter'
     'parkering overnatning'
-    'kontakt1 kontakt2'
+    'alkohol kontakt1'
+    '. kontakt2'
     'tilmeld tilmeld'    ;
     grid-template-columns: 48% 48%;
 }
@@ -542,6 +543,7 @@ a:hover p{
 .vagter { grid-area: vagter;}
 .parkering { grid-area: parkering;}
 .overnatning { grid-area: overnatning;}
+.alkohol { grid-area: alkohol;}
 .kontakt1 { grid-area: kontakt1;}
 .kontakt2 { grid-area: kontakt2;}
 .tilmeld {grid-area: tilmeld;}
