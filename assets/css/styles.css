@@ -549,6 +549,14 @@ a:hover p{
 .kontakt2 { grid-area: kontakt2;}
 .tilmeld {grid-area: tilmeld;}
 
+.kontakt2 a {
+    color: white;
+}
+
+.kontakt2 a {
+    color: black;
+}
+
 #footer-info {
     margin-top: 430px;
 }
