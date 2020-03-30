@@ -312,7 +312,6 @@ iframe {
 
 .kunstner-wrapper{
     margin: 4vw 11vw;
-    min-height: 1600px;
 }
 
 .forms{
@@ -341,11 +340,13 @@ iframe {
 .sqr-mainArea_item{
     height: 220px;
     width: 270px;
+
     text-align: center;
     padding: 0 5px;
     padding-top: 75px;
     margin: 10px;
-    float: left; /*ellers kommer det til at ligge under hinanden*/
+    /*float: left; *//*ellers kommer det til at ligge under hinanden*/
+    display: inline-block;
     background-color: #F2561D;
     cursor: pointer;
 }
@@ -366,9 +367,6 @@ iframe {
     color: white;
 }
 
-/* .footer_kunstner{
-    margin-top: 48px;
-} */
 
 /*MODAL*/
 .bandModal {
