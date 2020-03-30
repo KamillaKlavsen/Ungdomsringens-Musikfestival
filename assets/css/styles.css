@@ -289,8 +289,16 @@ a:active{
     grid-area: lokation;
 }
 
+.lp_lokation a {
+    color: black;
+}
+
 .lp_events {
     grid-area: events;
+}
+
+.lp_events a {
+    color: white;
 }
 
 .lp_knap {
