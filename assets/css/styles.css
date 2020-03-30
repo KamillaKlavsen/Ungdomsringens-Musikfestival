@@ -312,6 +312,7 @@ iframe {
 
 .kunstner-wrapper{
     margin: 4vw 11vw;
+    min-height: 1600px;
 }
 
 .forms{
