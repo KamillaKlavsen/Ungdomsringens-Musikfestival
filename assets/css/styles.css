@@ -320,21 +320,25 @@ iframe {
 
 .kunstner-wrapper{
     margin: 4vw 11vw;
+        /* margin: 4vw 11vw; 
+        width: 78%;
+        margin: auto;*/
 }
 
-.forms{
-    
+.searchbar {
+    display: flex;
+    width: 40%;
     margin: auto;
-    width: 500px;
-    
-}
-.search{
-    /* float: left; */
 }
 
-.filter{
-    float: right; 
+.forms {
+    margin: auto;
 }
+
+
+
+
+
 
 .fa-search{
     cursor: pointer;
