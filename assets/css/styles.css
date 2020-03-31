@@ -568,7 +568,27 @@ a:hover p{
 .kontakt2 a {
     color: black;
 }
+.img-søren {
+    width: 75%;
+    height: 100%;
+    float: right;
+}
 
+.kontakttekst {
+    width: 50%;
+    float: left;
+}
+
+.kontaktimg {
+    width: 50%;
+    float: right;
+    
+}
+.img-charlotte {
+    width: 75%;
+    height: 100%;
+    float: right;
+}
 .tilmeld {
    box-shadow: 10px 10px 20px black;
 }
