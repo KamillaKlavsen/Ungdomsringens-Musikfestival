@@ -335,11 +335,6 @@ iframe {
     margin: auto;
 }
 
-
-
-
-
-
 .fa-search{
     cursor: pointer;
 }
@@ -660,6 +655,30 @@ a:hover p{
         right: 85px;
     }
 
+
+    .days {
+        width: fit-content;
+    }
+    .bigButton-outer {
+        height: 9vh;
+        width: 45vw;
+    }
+    
+    .bigButton-inner {
+        height: 9vh;
+        width: 47vw;
+    }
+    
+    .bigButton-inner p {
+        font-size: 20px;
+        margin: 12px 0;
+        color: black;
+    }
+
+    th {
+        font-size: 12px;
+    }
+
     /* Footer*/
     footer {
         padding-top: 0; 
@@ -695,11 +714,13 @@ a:hover p{
         height: 40vh;
     }
 
+
+    .searchbar {
+        width: 100%;
+    }
     /*Kunstner - Modal*/
     .band-content {
         background-color: #fefefe;
-        /* margin: auto; */
-        /* padding: 20px; */
         border: 1px solid #888;
         width: 75%;
         height: 60%;
