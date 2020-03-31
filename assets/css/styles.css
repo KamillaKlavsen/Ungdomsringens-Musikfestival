@@ -625,6 +625,7 @@ a:hover p{
 
 
 @media screen and (max-width: 600px){
+    /*SKAL SES MED IPHONE X*/
     /* fælles for alle sider*/
     .wrapper {
         margin: 0;
@@ -711,6 +712,46 @@ a:hover p{
     iframe {
         width: 100%;
         height: 40vh;
+    }
+
+    /*Kunstner - Modal*/
+    .band-content {
+        background-color: #fefefe;
+        /* margin: auto; */
+        /* padding: 20px; */
+        border: 1px solid #888;
+        width: 75%;
+        height: 60%;
+        transform: translate(-50px, 10px);
+    
+    }
+    
+    .band-desc h2{
+        font-size: 20px;
+    }
+    .band-img{
+        background-image: url('./img/bandfoto.jpg');
+        margin: 20px 20px;
+        margin-top: 30px;
+        height: 150px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    
+      /* The Close Button */
+    .btn_close {
+        color: #aaaaaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+      }
+      
+    .btn_close:hover,
+    .btn_close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
     }
 
     /* Scener*/
