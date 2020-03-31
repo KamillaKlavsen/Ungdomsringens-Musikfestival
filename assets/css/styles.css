@@ -525,7 +525,9 @@ a:hover p{
 .kulkælder { grid-area: kulkælder;}
 .img-scener {
     grid-area: img;
-    height: 360px;
+    height: 100%;
+    width: 80%;
+    margin: 5%;
 }
 
 #footer-scene {
