@@ -714,11 +714,13 @@ a:hover p{
         height: 40vh;
     }
 
+
+    .searchbar {
+        width: 100%;
+    }
     /*Kunstner - Modal*/
     .band-content {
         background-color: #fefefe;
-        /* margin: auto; */
-        /* padding: 20px; */
         border: 1px solid #888;
         width: 75%;
         height: 60%;
