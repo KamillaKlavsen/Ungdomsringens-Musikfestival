@@ -335,11 +335,6 @@ iframe {
     margin: auto;
 }
 
-
-
-
-
-
 .fa-search{
     cursor: pointer;
 }
@@ -657,6 +652,30 @@ a:hover p{
 
     .flag {
         right: 85px;
+    }
+
+
+    .days {
+        width: fit-content;
+    }
+    .bigButton-outer {
+        height: 9vh;
+        width: 45vw;
+    }
+    
+    .bigButton-inner {
+        height: 9vh;
+        width: 47vw;
+    }
+    
+    .bigButton-inner p {
+        font-size: 20px;
+        margin: 12px 0;
+        color: black;
+    }
+
+    th {
+        font-size: 12px;
     }
 
     /* Footer*/
