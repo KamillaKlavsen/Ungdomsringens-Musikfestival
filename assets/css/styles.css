@@ -724,7 +724,7 @@ a:hover p{
         border: 1px solid #888;
         width: 75%;
         height: 60%;
-        transform: translate(-50px, 10px);
+        transform: translate(0px, 0px);
     
     }
     
