@@ -645,7 +645,7 @@ a:hover p{
     }
 
 
-/* Overskrifter */
+    /* Overskrifter */
 
     .heading-outer {
         width: 80vw;
@@ -719,22 +719,6 @@ a:hover p{
         background-repeat: no-repeat;
     }
     
-    
-      /* The Close Button */
-    .btn_close {
-        color: #aaaaaa;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-      }
-      
-    .btn_close:hover,
-    .btn_close:focus {
-        color: #000;
-        text-decoration: none;
-        cursor: pointer;
-    }
-
     /* Scener*/
     .grid-scener {
         display: block;
@@ -754,6 +738,20 @@ a:hover p{
     .grid-info {
         display: block;
     }
+
+    .kontaktimg {
+        display: none;
+        
+    }
+   
+    
+    .kontakttekst {
+        width: 100%;
+        float: left;
+    }
+    
+   
+   
 
     #footer-info {
         margin-top: 0;
